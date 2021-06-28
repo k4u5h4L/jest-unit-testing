@@ -11,7 +11,7 @@
         "test": "yarn run build && jest"
     },
     "jest": {
-        "testPathDirs": [
+        "roots": [
             "dist/test"
         ]
     },

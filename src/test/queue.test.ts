@@ -1,7 +1,7 @@
 import { Queue } from "../index";
 
 describe("My Stack", () => {
-    let q;
+    let q: Queue;
 
     beforeEach(() => {
         q = new Queue();
