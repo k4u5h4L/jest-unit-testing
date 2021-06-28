@@ -1,4 +1,4 @@
-type QueueType = string | number;
+import { QueueType } from "./types/Queue";
 
 class Queue {
     queue: QueueType[];
