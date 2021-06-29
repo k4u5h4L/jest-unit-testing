@@ -1,6 +1,6 @@
 import { Queue } from "../index";
 
-describe("My Stack", () => {
+describe("My Queue", () => {
     let q: Queue;
 
     beforeEach(() => {
