@@ -1,4 +1,4 @@
-# Unit Testing with jest with TypeScript
+# Unit Testing using jest with TypeScript
 
 A small implementation of a queue and test cases to run automated unit tests using the jest testing library in TypeScript.
 
